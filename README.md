@@ -139,6 +139,22 @@ Welcome to **Mastering Python** – your one-stop course for becoming a proficie
 - [Regular Expressions](https://regex101.com/)
 
 ---
+## 🌟 Course Highlights
 
+✅ 200+ Lessons with Arabic explanations
+
+✅ English code examples with detailed comments
+
+✅ 10+ Practical Projects with increasing difficulty
+
+✅ Complete learning paths for different goals
+
+✅ Downloadable resources (Lesson 152)
+
+
+[![Start Learning](https://img.shields.io/badge/Start_Learning-Click_Here-FF5722?style=for-the-badge&logo=python&logoColor=white)](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
+
+
+---
 ## 🙌 Happy Coding!
 This roadmap is your companion to learning Python thoroughly and building real-world projects. 🚀
